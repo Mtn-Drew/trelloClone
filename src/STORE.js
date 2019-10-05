@@ -1,4 +1,4 @@
-export default {
+export default  {
   lists: [
     {
       id: '1',
@@ -21,6 +21,7 @@ export default {
       cardIds: [ 'l', 'm' ],
     },
   ],
+
   allCards: {
     'a': { id: 'a', title: 'First card', content: 'lorem ipsum' },
     'b': { id: 'b', title: 'Second card', content: 'lorem ipsum' },
