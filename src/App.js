@@ -26,7 +26,7 @@ class App extends Component {
   // };
 
 
-  // handleDeleteCard() {
+  
   handleDeleteCard = (cardId) => {
     const { lists, allCards } = this.state.store;
 
